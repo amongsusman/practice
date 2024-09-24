@@ -1,3 +1,9 @@
+/*
+Name: Tyler Zhang
+Program Name: Classmate Program
+Date: 9/24/24
+Extra: None
+*/
 #include <iostream>
 using namespace std;
 int main() {
